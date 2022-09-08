@@ -4,7 +4,7 @@ Social network for developers<br>
 
 This is a MERN stack application includes authentication, profiles and forum posts.<br>
 
-Deployed on Heroku. Click [here](https://damp-mesa-36286.herokuapp.com/)
+Deployed on Heroku. Click [here](https://gentle-springs-28857.herokuapp.com)
 
 ## Technologies
 
